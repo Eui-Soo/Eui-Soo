@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Eui-Soo
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python and MATLAB 
+- 👀 I’m interested in AI, DSP and wireless communication
+- 🌱 I’m currently learning Python, C, C++ and MATLAB 
 - 📫 How to reach me euisoo28@robovolt.ai
 
-current repository
+Repository list
 - Li-ion battery remaining useful life prediction (AI-python-pytorch,keras)
 - Low power IoT platform (C)
 - ECG(electrocardiogram) denoising  (MATLAB-FIR smooting,AFD)
