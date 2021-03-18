@@ -5,7 +5,7 @@
 
 Repository list
 - Li-ion battery remaining useful life prediction (AI-python-pytorch,keras)
-- Low power IoT platform (C)
+- Ultra low power IoT platform (C)
 - ECG(electrocardiogram) denoising  (MATLAB-FIR smooting,AFD)
 - AFib detection (AI-python-keras)
 - Joint timing and carrier frequency offsets estimation in WLAN (AI-python-keras)
